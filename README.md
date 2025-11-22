@@ -1,1 +1,3 @@
-# Codyssey_AI_Basic
+# Codyssey_AI
+- basic
+- advance
